@@ -9,8 +9,8 @@ I'm a Computer Science senior at Cal State Fullerton graduating May 2026, focuse
 
 ### Currently Working On
 
-- **[Groundwork](https://github.com/nathanchamorro1)** — a discovery app for coffee shops across Orange County with AI-powered suggestions. coming soon.
-- **[Nanuk](https://github.com/nathanchamorro1)** — scan a product barcode and get a sustainability-focused breakdown of what's actually in it.
+- **[Groundwork]** — a discovery app for coffee shops across Orange County with AI-powered suggestions. coming soon.
+- **[Nanuk]** — scan a product barcode and get a sustainability-focused breakdown of what's actually in it.
 
 ---
 
